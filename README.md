@@ -11,3 +11,190 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Number Symbols
+- ➀ Dingbat Circled Sans-Serif Digit One
+- ➁ Dingbat Circled Sans-Serif Digit Two
+- ➂ Dingbat Circled Sans-Serif Digit Three
+- ➃ Dingbat Circled Sans-Serif Digit Four
+- ➄ Dingbat Circled Sans-Serif Digit Five
+- ➅ Dingbat Circled Sans-Serif Digit Six
+- ➆ Dingbat Circled Sans-Serif Digit Seven
+- ➇ Dingbat Circled Sans-Serif Digit Eight
+- ➈ Dingbat Circled Sans-Serif Digit Nine
+- ➉ Dingbat Circled Sans-Serif Number Ten
+- ➊ Dingbat Negative Circled Sans-Serif Digit One
+- ➋ Dingbat Negative Circled Sans-Serif Digit Two
+- ➌ Dingbat Negative Circled Sans-Serif Digit Three
+- ➍ Dingbat Negative Circled Sans-Serif Digit Four
+- ➎ Dingbat Negative Circled Sans-Serif Digit Five
+- ➏ Dingbat Negative Circled Sans-Serif Digit Six
+- ➐ Dingbat Negative Circled Sans-Serif Digit Seven
+- ➑ Dingbat Negative Circled Sans-Serif Digit Eight
+- ➒ Dingbat Negative Circled Sans-Serif Digit Nine
+- ➓ Dingbat Negative Circled Sans-Serif Number Ten
+- ⓵ Double Circled Digit One
+- ⓶ Double Circled Digit Two
+- ⓷ Double Circled Digit Three
+- ⓸ Double Circled Digit Four
+- ⓹ Double Circled Digit Five
+- ⓺ Double Circled Digit Six
+- ⓻ Double Circled Digit Seven
+- ⓼ Double Circled Digit Eight
+- ⓽ Double Circled Digit Nine
+- ⓾ Double Circled Number Ten
+- ⓿ Negative Circled Digit Zero
+- ❶ Dingbat Negative Circled Digit One
+- ❷ Dingbat Negative Circled Digit Two
+- ❸ Dingbat Negative Circled Digit Three
+- ❹ Dingbat Negative Circled Digit Four
+- ❺ Dingbat Negative Circled Digit Five
+- ❻ Dingbat Negative Circled Digit Six
+- ❼ Dingbat Negative Circled Digit Seven
+- ❽ Dingbat Negative Circled Digit Eight
+- ❾ Dingbat Negative Circled Digit Nine
+- ❿ Dingbat Negative Circled Number Ten
+- ⓪ Circled Digit Zero
+- ① Circled Digit One
+- ② Circled Digit Two
+- ③ Circled Digit Three
+- ④ Circled Digit Four
+- ⑤ Circled Digit Five
+- ⑥ Circled Digit Six
+- ⑦ Circled Digit Seven
+- ⑧ Circled Digit Eight
+- ⑨ Circled Digit Nine
+- ⑩ Circled Number Ten
+- ⑪ Circled Number Eleven
+- ⑫ Circled Number Twelve
+- ⑬ Circled Number Thirteen
+- ⑭ Circled Number Fourteen
+- ⑮ Circled Number Fifteen
+- ⑯ Circled Number Sixteen
+- ⑰ Circled Number Seventeen
+- ⑱ Circled Number Eighteen
+- ⑲ Circled Number Nineteen
+- ⑳ Circled Number Twenty
+- ⁰ Superscript Zero
+- ¹ Superscript One
+- ² Superscript Two
+- ³ Superscript Three
+- ⁴ Superscript Four
+- ⁵ Superscript Five
+- ⁶ Superscript Six
+- ⁷ Superscript Seven
+- ⁸ Superscript Eight
+- ⁹ Superscript Nine
+- ₀ Subscript Zero
+- ₁ Subscript One
+- ₂ Subscript Two
+- ₃ Subscript Three
+- ₄ Subscript Four
+- ₅ Subscript Five
+- ₆ Subscript Six
+- ₇ Subscript Seven
+- ₈ Subscript Eight
+- ₉ Subscript Nine
+- ⑴ Parenthesized Digit One
+- ⑵ Parenthesized Digit Two
+- ⑶ Parenthesized Digit Three
+- ⑷ Parenthesized Digit Four
+- ⑸ Parenthesized Digit Five
+- ⑹ Parenthesized Digit Six
+- ⑺ Parenthesized Digit Seven
+- ⑻ Parenthesized Digit Eight
+- ⑼ Parenthesized Digit Nine
+- ⑽ Parenthesized Number Ten
+- ⑾ Parenthesized Number Eleven
+- ⑿ Parenthesized Number Twelve
+- ⒀ Parenthesized Number Thirteen
+- ⒁ Parenthesized Number Fourteen
+- ⒂ Parenthesized Number Fifteen
+- ⒃ Parenthesized Number Sixteen
+- ⒄ Parenthesized Number Seventeen
+- ⒅ Parenthesized Number Eighteen
+- ⒆ Parenthesized Number Nineteen
+- ⒇ Parenthesized Number Twenty
+- ⒈ Digit One Full Stop
+- ⒉ Digit Two Full Stop
+- ⒊ Digit Three Full Stop
+- ⒋ Digit Four Full Stop
+- ⒌ Digit Five Full Stop
+- ⒍ Digit Six Full Stop
+- ⒎ Digit Seven Full Stop
+- ⒏ Digit Eight Full Stop
+- ⒐ Digit Nine Full Stop
+- ⒑ Number Ten Full Stop
+- ⒒ Number Eleven Full Stop
+- ⒓ Number Twelve Full Stop
+- ⒔ Number Thirteen Full Stop
+- ⒕ Number Fourteen Full Stop
+- ⒖ Number Fifteen Full Stop
+- ⒗ Number Sixteen Full Stop
+- ⒘ Number Seventeen Full Stop
+- ⒙ Number Eighteen Full Stop
+- ⒚ Number Nineteen Full Stop
+- ⒛ Number Twenty Full Stop
+- ０ Fullwidth Digit Zero
+- １ Fullwidth Digit One
+- ２ Fullwidth Digit Two
+- ３ Fullwidth Digit Three
+- ４ Fullwidth Digit Four
+- ５ Fullwidth Digit Five
+- ６ Fullwidth Digit Six
+- ７ Fullwidth Digit Seven
+- ８ Fullwidth Digit Eight
+- ９ Fullwidth Digit Nine
+- Ⅰ Roman Numeral One
+- Ⅱ Roman Numeral Two
+- Ⅲ Roman Numeral Three
+- Ⅳ Roman Numeral Four
+- Ⅴ Roman Numeral Five
+- Ⅵ Roman Numeral Six
+- Ⅶ Roman Numeral Seven
+- Ⅷ Roman Numeral Eight
+- Ⅸ Roman Numeral Nine
+- Ⅹ Roman Numeral Ten
+- Ⅺ Roman Numeral Eleven
+- Ⅻ Roman Numeral Twelve
+- ⅰ Small Roman Numeral One
+- ⅱ Small Roman Numeral Two
+- ⅲ Small Roman Numeral Three
+- ⅳ Small Roman Numeral Four
+- ⅴ Small Roman Numeral Five
+- ⅵ Small Roman Numeral Six
+- ⅶ Small Roman Numeral Seven
+- ⅷ Small Roman Numeral Eight
+- ⅸ Small Roman Numeral Nine
+- ⅹ Small Roman Numeral Ten
+- ⅺ Small Roman Numeral Eleven
+- ⅻ Small Roman Numeral Twelve
+- ㈠ Parenthesized Ideograph One
+- ㈡ Parenthesized Ideograph Two
+- ㈢ Parenthesized Ideograph Three
+- ㈣ Parenthesized Ideograph Four
+- ㈤ Parenthesized Ideograph Five
+- ㈥ Parenthesized Ideograph Six
+- ㈦ Parenthesized Ideograph Seven
+- ㈧ Parenthesized Ideograph Eight
+- ㈨ Parenthesized Ideograph Nine
+- ㈩ Parenthesized Ideograph Ten
+- ㊀ Circled Ideograph One
+- ㊁ Circled Ideograph Two
+- ㊂ Circled Ideograph Three
+- ㊃ Circled Ideograph Four
+- ㊄ Circled Ideograph Five
+- ㊅ Circled Ideograph Six
+- ㊆ Circled Ideograph Seven
+- ㊇ Circled Ideograph Eight
+- ㊈ Circled Ideograph Nine
+- ㊉ Circled Ideograph Ten
+- ⅼ Small Roman Numeral Fifty
+- ⅽ Small Roman Numeral One Hundred
+- ⅾ Small Roman Numeral Five Hundred
+- ⅿ Small Roman Numeral One Thousand
+- Ⅼ Roman Numeral Fifty
+- Ⅽ Roman Numeral One Hundred
+- Ⅾ Roman Numeral Five Hundred
+- Ⅿ Roman Numeral One Thousand
+- ↀ Roman Numeral One Thousand CD
+- ↁ Roman Numeral Five Thousand
+- ↂ Roman Numeral Ten Thousand
